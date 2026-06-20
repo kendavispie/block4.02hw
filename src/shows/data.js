@@ -13,7 +13,7 @@
  */
 
 /** @type {Show[]} */
-export const tvShows = [
+const tvShows = [
   {
     name: "Galactic Odyssey",
     genre: "Sci-Fi",
@@ -246,3 +246,4 @@ export const tvShows = [
     ],
   },
 ];
+export default tvShows
